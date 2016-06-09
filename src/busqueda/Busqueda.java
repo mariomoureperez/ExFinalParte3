@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Busqueda {
 
     public static void main(String[] args) {
-         
+          
         int numArray;
         int digito;
         Scanner obx = new Scanner(System.in);
