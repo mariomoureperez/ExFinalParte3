@@ -3,7 +3,7 @@ package busqueda;
 import javax.swing.JOptionPane;
 
 public class Busqueda {
-
+ 
     public static void main(String[] args) {
         int numArray;
         int digito;
